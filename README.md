@@ -5,9 +5,24 @@ APIs
  Admin
  Order
 
+Basic Schema of A 
+Product,
+User,
+Order,
+
+eRROR Handlers fro the App
 
  also have schems Of the all of thes APi and consume them in a Database and can be used in Front End 
 
 This was a amazing practice of all of this Product
 
+// command for pushing the repo to gitHub
+if we have a new repos and push it to gitHub
+git init
+git add .  // add all files in folder
+git commit -m "add comments "
+git remote add origin .. name of the Github repo 
 
+also be maister
+This work for me
+git push -u origin main
